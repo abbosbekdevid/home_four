@@ -1,3 +1,4 @@
 # home 4
-# Python
-commit = "Main"
+# C.R 7
+commit = "Ranaldo"
+smile = "Siuuuuuu"
