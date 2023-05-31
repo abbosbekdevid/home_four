@@ -1,4 +1,4 @@
 # home 4
-# C.R 7
-commit = "Ranaldo"
-smile = "Siuuuuuu"
+# Leo Messi 10
+commit = "Messi"
+smile = "What sap!"
